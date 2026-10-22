@@ -166,6 +166,9 @@ runs continue through the input cycle instead of selecting the same video every
 time. The `.env` file, virtual environment, generated output videos, and local
 FFmpeg bundle are not committed.
 
+If `CLOUDINARY_FOLDER` is not added as a repository secret, the workflow uses
+the `cloudinary_folder` value from `config.json`.
+
 Instagram publishing requires an eligible Instagram Professional account and a
 valid Graph API access token with content-publishing permissions. No real
 publishing is performed by the project's tests.

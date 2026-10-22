@@ -68,5 +68,7 @@ jobs:
             echo "No state changes to commit."
           else
             git commit -m "chore: persist publisher state"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
             git push origin HEAD:"${GITHUB_REF_NAME}"
           fi

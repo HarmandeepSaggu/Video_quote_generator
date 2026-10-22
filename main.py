@@ -1550,7 +1550,9 @@ def cloudinary_upload(
     if not video_path.is_file() or video_path.stat().st_size == 0:
         raise PublishError(f"Generated video is missing or empty: {video_path.name}")
     timestamp = str(int(time.time()))
-    folder = os.environ.get("CLOUDINARY_FOLDER", config["cloudinary_folder"]).strip().strip("/")
+    # An optional GitHub Actions secret may be present but empty. Treat an
+    # empty override as unset so the validated config default still applies.
+    folder = (os.environ.get("CLOUDINARY_FOLDER") or config["cloudinary_folder"]).strip().strip("/")
     if not folder:
         raise PublishError("CLOUDINARY_FOLDER or cloudinary_folder must be non-empty")
     fields = {
