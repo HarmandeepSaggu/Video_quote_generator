@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+tools/
+*.log
+output/*
+!output/.gitkeep
+*.tmp
+*.part
+tools/*.tar.xz
+.video_selection_state.json
+.quote_history.json
+.instagram_publish_state.json

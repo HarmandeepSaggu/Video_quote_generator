@@ -1,0 +1,5 @@
+Copyright 2015 the Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+The complete license is available at https://scripts.sil.org/OFL and is
+included with the Cormorant font file in this project.
