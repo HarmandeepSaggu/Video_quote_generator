@@ -168,6 +168,8 @@ FFmpeg bundle are not committed.
 
 If `CLOUDINARY_FOLDER` is not added as a repository secret, the workflow uses
 the `cloudinary_folder` value from `config.json`.
+If a run fails before Cloudinary receives the video, the next CI run can
+re-render the saved pending quote on the fresh runner before retrying it.
 
 Instagram publishing requires an eligible Instagram Professional account and a
 valid Graph API access token with content-publishing permissions. No real

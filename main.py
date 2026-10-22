@@ -1809,6 +1809,61 @@ def pending_publish_jobs(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return [job for job in jobs if job.get("status") != "complete"]
 
 
+def restore_pending_publish_output(
+    job: dict[str, Any],
+    input_dir: Path,
+    output_dir: Path,
+    config: dict[str, Any],
+    font_path: Path,
+    ffmpeg: str,
+    ffprobe: str,
+) -> None:
+    """Re-render a generated job when a fresh CI runner has no local output yet."""
+    output_value = str(job.get("output", "")).strip()
+    if not output_value:
+        raise PublishError(f"Pending publishing job {job['job_id']} has no output path")
+    output_path = Path(output_value)
+    if output_path.is_file() and output_path.stat().st_size > 0:
+        return
+
+    # Never regenerate after Cloudinary or Instagram has received the asset;
+    # doing so could create a second Reel instead of safely retrying the job.
+    if any(job.get(key) for key in ("cloudinary_url", "container_id", "media_id")):
+        raise PublishError(
+            f"Pending job {job['job_id']} is missing its local output after a remote upload; "
+            "manual verification is required before retrying"
+        )
+
+    source_value = str(job.get("source", "")).strip()
+    source = (input_dir / Path(source_value)).resolve()
+    try:
+        source.relative_to(input_dir.resolve())
+    except ValueError as exc:
+        raise PublishError(f"Pending job {job['job_id']} has an invalid input path") from exc
+    if not source.is_file():
+        raise PublishError(f"Pending job {job['job_id']} input is missing: {source}")
+
+    quote = str(job.get("quote", "")).strip()
+    if not quote:
+        raise PublishError(
+            f"Pending job {job['job_id']} has no saved quote and cannot be regenerated safely"
+        )
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / output_path.name
+    video_config = {
+        **config,
+        "text_color": text_color_for_source(source, input_dir, config),
+    }
+    metadata = probe(source, ffprobe)
+    render_video(source, output_path, quote, metadata, video_config, font_path, ffmpeg)
+    verify_output(metadata, output_path, ffprobe)
+    job["output"] = str(output_path)
+    job["status"] = "generated"
+    job["last_error"] = ""
+    LOGGER.info("Regenerated missing output for pending job %s: %s", job["job_id"], output_path.name)
+
+
 def create_publish_job(
     source: Path,
     input_dir: Path,
@@ -2002,6 +2057,8 @@ def main() -> int:
         ffmpeg, ffprobe = require_dependencies(project_root, config)
         input_dir = resolve_path(project_root, config["input_dir"])
         output_dir = resolve_path(project_root, config["output_dir"])
+        output_dir.mkdir(parents=True, exist_ok=True)
+        font_path = resolve_font(project_root, config["font_path"])
         selection_state_path = resolve_path(project_root, config["selection_state_file"])
         quote_history_path = resolve_path(project_root, config["quote_history_file"])
         quote_history = load_quote_history(quote_history_path)
@@ -2015,6 +2072,16 @@ def main() -> int:
                 pending_failures = 0
                 for job in retry_jobs:
                     try:
+                        restore_pending_publish_output(
+                            job,
+                            input_dir,
+                            output_dir,
+                            config,
+                            font_path,
+                            ffmpeg,
+                            ffprobe,
+                        )
+                        save_publish_state(publish_state_path, publish_jobs)
                         publish_video_job(job, publish_jobs, publish_state_path, config)
                     except PublishError as exc:
                         pending_failures += 1
@@ -2025,8 +2092,6 @@ def main() -> int:
                     return 1
                 LOGGER.info("Completed %d pending publishing job(s); no new video was selected", len(retry_jobs))
                 return 0
-        output_dir.mkdir(parents=True, exist_ok=True)
-        font_path = resolve_font(project_root, config["font_path"])
         sources = scan_inputs(input_dir, config["recursive_scan"])
         if args.limit is not None:
             if args.limit < 1:
