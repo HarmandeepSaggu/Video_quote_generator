@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "job_id": "ffa688b58326b213ee782a89",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "Midnight screen glows, I replay the last text, wondering if silence means goodbye.\u00a0\u2014",
+      "short_caption": "Lost In Thought \ud83c\udf19",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#HeartbreakHealing",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Lost In Thought \ud83c\udf19\n\n#Overthinking #LateNightThoughts #MindSpiral #HeartbreakHealing #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "astra_ffa688b58326b213ee782a89",
+      "status": "generated",
+      "last_error": "CLOUDINARY_FOLDER or cloudinary_folder must be non-empty"
+    }
+  ]
+}
