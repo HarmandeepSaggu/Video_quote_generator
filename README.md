@@ -166,6 +166,10 @@ runs continue through the input cycle instead of selecting the same video every
 time. The `.env` file, virtual environment, generated output videos, and local
 FFmpeg bundle are not committed.
 
+State persistence retries the fetch/rebase/push sequence when the repository
+changes while a workflow run is finishing, avoiding a non-fast-forward failure
+when another workflow or a manual push updates `main` at the same time.
+
 If `CLOUDINARY_FOLDER` is not added as a repository secret, the workflow uses
 the `cloudinary_folder` value from `config.json`.
 If a run fails before Cloudinary receives the video, the next CI run can
