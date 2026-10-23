@@ -103,6 +103,32 @@
       "media_id": "18055496309586826",
       "permalink": "https://www.instagram.com/reel/De2FpnHk2M2/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "a0b02fd93b75c4a7d4848f5a",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "People cling to comfort, not love; safety feels safer than vulnerability.\u00a0>>",
+      "short_caption": "Truth Hits Different \ud83d\udda4",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#RelationshipQuotes",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Truth Hits Different \ud83d\udda4\n\n#HardTruths #RelationshipTruths #RealTalk #RelationshipQuotes #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_a0b02fd93b75c4a7d4848f5a",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "38db717365369428f33646c29061eafb",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792780291/glimpse-of-thoughts/reels/astra_a0b02fd93b75c4a7d4848f5a.mp4",
+      "container_id": "17901895227671515",
+      "media_id": "18140397439533989",
+      "permalink": "https://www.instagram.com/reel/De2NSQ5CH_D/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
