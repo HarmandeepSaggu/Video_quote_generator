@@ -77,6 +77,32 @@
       "media_id": "18118266005070920",
       "permalink": "https://www.instagram.com/reel/De10lJoEUxd/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "bc4d31e7b51c91204402c342",
+      "source": "White font/Video-42281.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-42281_quote.mp4",
+      "quote": "My mind turns quiet moments into questions nobody else knows I am asking.\u00a0:)",
+      "short_caption": "Mind Won't Rest \ud83c\udf00",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Mind Won't Rest \ud83c\udf00\n\n#Overthinking #LateNightThoughts #MindSpiral #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_bc4d31e7b51c91204402c342",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "3b3c5dec16ed085b87e643971662c0f6",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792776262/glimpse-of-thoughts/reels/astra_bc4d31e7b51c91204402c342.mp4",
+      "container_id": "17901887859671515",
+      "media_id": "18055496309586826",
+      "permalink": "https://www.instagram.com/reel/De2FpnHk2M2/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
