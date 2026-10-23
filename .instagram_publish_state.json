@@ -51,6 +51,32 @@
       "media_id": "18118749968099339",
       "permalink": "https://www.instagram.com/reel/De1VR63kf9h/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "e53e615e1cdf173cab01c064",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "I won\u2019t trade my peace for a nod; I\u2019m enough without their validation.\u00a0\u2014",
+      "short_caption": "No More Shrinking \ud83d\udda4",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "No More Shrinking \ud83d\udda4\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_e53e615e1cdf173cab01c064",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "bc575dde5a52d3ab167ed0076adec331",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792767339/glimpse-of-thoughts/reels/astra_e53e615e1cdf173cab01c064.mp4",
+      "container_id": "17901863967671515",
+      "media_id": "18118266005070920",
+      "permalink": "https://www.instagram.com/reel/De10lJoEUxd/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
