@@ -129,6 +129,32 @@
       "media_id": "18140397439533989",
       "permalink": "https://www.instagram.com/reel/De2NSQ5CH_D/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "58729b117adcd4cbbeb8c9ae",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "When the hallway grew quiet, I realized the door I kept opening was never theirs.\u00a0>>",
+      "short_caption": "Release The Weight \ud83c\udf42",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Release The Weight \ud83c\udf42\n\n#LettingGo #HealingJourney #MovingOn #DeepQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_58729b117adcd4cbbeb8c9ae",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "74aa47ef12f86f206ec68fdf8ac74d78",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792835005/glimpse-of-thoughts/reels/astra_58729b117adcd4cbbeb8c9ae.mp4",
+      "container_id": "17902002474671515",
+      "media_id": "18118726784466943",
+      "permalink": "https://www.instagram.com/reel/De31rKrD_rS/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
