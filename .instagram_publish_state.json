@@ -155,6 +155,32 @@
       "media_id": "18118726784466943",
       "permalink": "https://www.instagram.com/reel/De31rKrD_rS/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "194d2b7b13bd563e5e6a6553",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "I tell my story in quiet rooms, hoping the walls will echo back. Silence answers louder than any applause.\u00a0\u2014",
+      "short_caption": "Still Unseen \ud83d\udd6f\ufe0f",
+      "hashtags": [
+        "#FeelingUnseen",
+        "#DeepFeelings",
+        "#SilentStruggles",
+        "#LateNightThoughts",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Still Unseen \ud83d\udd6f\ufe0f\n\n#FeelingUnseen #DeepFeelings #SilentStruggles #LateNightThoughts #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_194d2b7b13bd563e5e6a6553",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "0efe3ce40244a5f3d88d5df383d32a20",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792848558/glimpse-of-thoughts/reels/astra_194d2b7b13bd563e5e6a6553.mp4",
+      "container_id": "17902038501671515",
+      "media_id": "18121041208948338",
+      "permalink": "https://www.instagram.com/reel/De4PffujfDr/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
