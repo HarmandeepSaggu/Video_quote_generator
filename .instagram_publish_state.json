@@ -181,6 +181,32 @@
       "media_id": "18121041208948338",
       "permalink": "https://www.instagram.com/reel/De4PffujfDr/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "bd56259becb070bb054b6058",
+      "source": "White font/Video-24570.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-24570_quote.mp4",
+      "quote": "When doubt whispers, I answer with a quiet promise to hold my own hand and walk forward again.\u00a0:)",
+      "short_caption": "Becoming Whole Again \ud83c\udf24\ufe0f",
+      "hashtags": [
+        "#HealingJourney",
+        "#InnerHealing",
+        "#ChoosePeace",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Becoming Whole Again \ud83c\udf24\ufe0f\n\n#HealingJourney #InnerHealing #ChoosePeace #RelatableReels #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_bd56259becb070bb054b6058",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "60283fca5d5b7341994964eb19218fba",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792863042/glimpse-of-thoughts/reels/astra_bd56259becb070bb054b6058.mp4",
+      "container_id": "17902092507671515",
+      "media_id": "17975378190146998",
+      "permalink": "https://www.instagram.com/reel/De4rHkVAKUy/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
