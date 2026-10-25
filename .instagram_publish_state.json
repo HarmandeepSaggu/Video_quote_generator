@@ -207,6 +207,32 @@
       "media_id": "17975378190146998",
       "permalink": "https://www.instagram.com/reel/De4rHkVAKUy/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "420e4c01393567b0f0e26c73",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "I stop polishing the mirror for strangers. The reflection I keep is the one that finally looks back and smiles.\u00a0\u2014",
+      "short_caption": "Boundaries Feel Good \ud83e\uddf1",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Boundaries Feel Good \ud83e\uddf1\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #RelatableReels #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_420e4c01393567b0f0e26c73",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "2521d5a115106eeee3419dbca68f2bc0",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792936271/glimpse-of-thoughts/reels/astra_420e4c01393567b0f0e26c73.mp4",
+      "container_id": "17902282242671515",
+      "media_id": "18134251522731640",
+      "permalink": "https://www.instagram.com/reel/De62zDfiP40/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
