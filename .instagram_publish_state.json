@@ -233,6 +233,32 @@
       "media_id": "18134251522731640",
       "permalink": "https://www.instagram.com/reel/De62zDfiP40/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "1404532c2087e07c68dfb682",
+      "source": "White font/Video-42281.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-42281_quote.mp4",
+      "quote": "I know the answer is probably simple; my mind keeps looking for the wound beneath it.\u00a0:)",
+      "short_caption": "Mind Won't Rest \ud83c\udf00",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Mind Won't Rest \ud83c\udf00\n\n#Overthinking #LateNightThoughts #MindSpiral #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_1404532c2087e07c68dfb682",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "7846f0696193e44bf26ba25bb2410cf8",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1792950173/glimpse-of-thoughts/reels/astra_1404532c2087e07c68dfb682.mp4",
+      "container_id": "17902333632671515",
+      "media_id": "18378036973209852",
+      "permalink": "https://www.instagram.com/reel/De7RZdMAmTL/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
