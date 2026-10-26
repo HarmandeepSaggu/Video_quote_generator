@@ -259,6 +259,32 @@
       "media_id": "18378036973209852",
       "permalink": "https://www.instagram.com/reel/De7RZdMAmTL/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "d92ae6131c0edc6497da345b",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "My heart beats a rhythm they call strange, while I just want someone to listen.\u00a0>>",
+      "short_caption": "Still Unseen \ud83d\udd6f\ufe0f",
+      "hashtags": [
+        "#FeelingUnseen",
+        "#DeepFeelings",
+        "#SilentStruggles",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Still Unseen \ud83d\udd6f\ufe0f\n\n#FeelingUnseen #DeepFeelings #SilentStruggles #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_d92ae6131c0edc6497da345b",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "9d5b92d75dac74f0cf20c7bfed0f8c35",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793016335/glimpse-of-thoughts/reels/astra_d92ae6131c0edc6497da345b.mp4",
+      "container_id": "17902526391671515",
+      "media_id": "18113323886167490",
+      "permalink": "https://www.instagram.com/reel/De9PiE1jE6l/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
