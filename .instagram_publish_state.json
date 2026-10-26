@@ -311,6 +311,32 @@
       "media_id": "18110982182617795",
       "permalink": "https://www.instagram.com/reel/De9wQmsFXF8/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "ea7e577a21b566d2fd487cdd",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "You can feel alone in a room full of people who only know your easy version.\u00a0\u2014",
+      "short_caption": "Alone Together \ud83c\udf19",
+      "hashtags": [
+        "#LonelyThoughts",
+        "#FeelingAlone",
+        "#InnerThoughts",
+        "#RelationshipQuotes",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Alone Together \ud83c\udf19\n\n#LonelyThoughts #FeelingAlone #InnerThoughts #RelationshipQuotes #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_ea7e577a21b566d2fd487cdd",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "5dd9a17bb00828b437a70789635b299d",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793044921/glimpse-of-thoughts/reels/astra_ea7e577a21b566d2fd487cdd.mp4",
+      "container_id": "17902625931671515",
+      "media_id": "18106381205307389",
+      "permalink": "https://www.instagram.com/reel/De-GDCjD_bn/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
