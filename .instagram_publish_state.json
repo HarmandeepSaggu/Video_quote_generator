@@ -285,6 +285,32 @@
       "media_id": "18113323886167490",
       "permalink": "https://www.instagram.com/reel/De9PiE1jE6l/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "d66bf5c4ea8091f354f1cda1",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "We love people who listen, yet we forget to hear ourselves when the room empties.\u00a0>>",
+      "short_caption": "Love Needs Honesty \ud83e\ude9e",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#RelationshipQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Love Needs Honesty \ud83e\ude9e\n\n#HardTruths #RelationshipTruths #RealTalk #RelationshipQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_d66bf5c4ea8091f354f1cda1",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "d507c1bdfc09c89e30bb74a3ad638ace",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793033479/glimpse-of-thoughts/reels/astra_d66bf5c4ea8091f354f1cda1.mp4",
+      "container_id": "17902590294671515",
+      "media_id": "18110982182617795",
+      "permalink": "https://www.instagram.com/reel/De9wQmsFXF8/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
