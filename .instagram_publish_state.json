@@ -363,6 +363,32 @@
       "media_id": "18035383238665075",
       "permalink": "https://www.instagram.com/reel/De_rYxZCjfe/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "e409c1d4aa2fce12c7ac50b9",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "People learn to love the idea of you more than the real person they meet.\u00a0\u2014",
+      "short_caption": "Some Truths Hurt \ud83e\udd40",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#RelationshipQuotes",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Some Truths Hurt \ud83e\udd40\n\n#HardTruths #RelationshipTruths #RealTalk #RelationshipQuotes #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_e409c1d4aa2fce12c7ac50b9",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "06d0ef706d3238423ebeac16c5fa31f5",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793117184/glimpse-of-thoughts/reels/astra_e409c1d4aa2fce12c7ac50b9.mp4",
+      "container_id": "17902793295671515",
+      "media_id": "18101261423453419",
+      "permalink": "https://www.instagram.com/reel/DfAP2y6nw5h/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
