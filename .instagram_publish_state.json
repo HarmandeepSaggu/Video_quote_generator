@@ -337,6 +337,32 @@
       "media_id": "18106381205307389",
       "permalink": "https://www.instagram.com/reel/De-GDCjD_bn/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "1ffed7bf24cc698e13f9bc7b",
+      "source": "White font/Video-24570.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-24570_quote.mp4",
+      "quote": "I stare at the empty chat, assigning motives to a ghost of a message that never arrived\u00a0:)",
+      "short_caption": "Mind Won't Rest \ud83c\udf00",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Mind Won't Rest \ud83c\udf00\n\n#Overthinking #LateNightThoughts #MindSpiral #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_1ffed7bf24cc698e13f9bc7b",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "ba5fe298a86a487e77b2d4db4c5255e5",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793098022/glimpse-of-thoughts/reels/astra_1ffed7bf24cc698e13f9bc7b.mp4",
+      "container_id": "17902736457671515",
+      "media_id": "18035383238665075",
+      "permalink": "https://www.instagram.com/reel/De_rYxZCjfe/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
