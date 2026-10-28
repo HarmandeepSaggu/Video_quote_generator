@@ -441,6 +441,32 @@
       "media_id": "18358112878168397",
       "permalink": "https://www.instagram.com/reel/DfCVGNjE7I1/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "7ab8b8ed1ad7bdae1a0008a3",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "The ache in my chest loosens when I pause and name it. Naming turns it from a monster into a tired friend.\u00a0>>",
+      "short_caption": "Becoming Whole Again \ud83c\udf24\ufe0f",
+      "hashtags": [
+        "#HealingJourney",
+        "#InnerHealing",
+        "#ChoosePeace",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Becoming Whole Again \ud83c\udf24\ufe0f\n\n#HealingJourney #InnerHealing #ChoosePeace #RelatableReels #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_7ab8b8ed1ad7bdae1a0008a3",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "30b9629f8d6864bf015f98fe13790e4c",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793204064/glimpse-of-thoughts/reels/astra_7ab8b8ed1ad7bdae1a0008a3.mp4",
+      "container_id": "17903001003671515",
+      "media_id": "18103221023456038",
+      "permalink": "https://www.instagram.com/reel/DfC1oHKiAw-/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
