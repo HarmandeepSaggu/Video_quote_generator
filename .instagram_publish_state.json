@@ -415,6 +415,32 @@
       "media_id": "17916022863520960",
       "permalink": "https://www.instagram.com/reel/DfAnReDlSm_/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "03ad9fdc44306d66774f4570",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "I sit in a crowded caf\u00e9, but my thoughts echo in an empty hallway\u00a0>>",
+      "short_caption": "Crowded But Lonely \ud83e\udee5",
+      "hashtags": [
+        "#LonelyThoughts",
+        "#FeelingAlone",
+        "#InnerThoughts",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Crowded But Lonely \ud83e\udee5\n\n#LonelyThoughts #FeelingAlone #InnerThoughts #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_03ad9fdc44306d66774f4570",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "0e45df85572e951cb7e666de08d2ad31",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793186980/glimpse-of-thoughts/reels/astra_03ad9fdc44306d66774f4570.mp4",
+      "container_id": "17902948914671515",
+      "media_id": "18358112878168397",
+      "permalink": "https://www.instagram.com/reel/DfCVGNjE7I1/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
