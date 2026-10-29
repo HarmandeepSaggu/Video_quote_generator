@@ -545,6 +545,32 @@
       "media_id": "18147163285605091",
       "permalink": "https://www.instagram.com/reel/DfFbWTYEfOi/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "a55d83f9b63cab11ffe87a03",
+      "source": "White font/Video-42281.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-42281_quote.mp4",
+      "quote": "When I finally say the truth, their silence feels louder than any argument.\u00a0:)",
+      "short_caption": "Unheard Again \ud83e\udee5",
+      "hashtags": [
+        "#FeelingUnseen",
+        "#DeepFeelings",
+        "#SilentStruggles",
+        "#LateNightThoughts",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Unheard Again \ud83e\udee5\n\n#FeelingUnseen #DeepFeelings #SilentStruggles #LateNightThoughts #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_a55d83f9b63cab11ffe87a03",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "b9135a46e6a678aa359424b09b0f54b5",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793303078/glimpse-of-thoughts/reels/astra_a55d83f9b63cab11ffe87a03.mp4",
+      "container_id": "17903268039671515",
+      "media_id": "18142545529610492",
+      "permalink": "https://www.instagram.com/reel/DfFybrjAuQg/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
