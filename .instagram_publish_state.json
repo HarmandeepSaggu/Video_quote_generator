@@ -519,6 +519,32 @@
       "media_id": "17890115325477686",
       "permalink": "https://www.instagram.com/reel/DfE6-YhDK9n/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "887992f60ac6cfc20a83e09f",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "I whispered to the mirror, \"You\u2019re enough,\" and the reflection answered back with patience. Trust grew in the silence between breaths.\u00a0\u2014",
+      "short_caption": "Becoming Whole Again \ud83c\udf24\ufe0f",
+      "hashtags": [
+        "#HealingJourney",
+        "#InnerHealing",
+        "#ChoosePeace",
+        "#LateNightThoughts",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Becoming Whole Again \ud83c\udf24\ufe0f\n\n#HealingJourney #InnerHealing #ChoosePeace #LateNightThoughts #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_887992f60ac6cfc20a83e09f",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "302c177a5da9106310ee1eda91070639",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793290965/glimpse-of-thoughts/reels/astra_887992f60ac6cfc20a83e09f.mp4",
+      "container_id": "17903234481671515",
+      "media_id": "18147163285605091",
+      "permalink": "https://www.instagram.com/reel/DfFbWTYEfOi/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
