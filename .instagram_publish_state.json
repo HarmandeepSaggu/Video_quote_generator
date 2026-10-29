@@ -493,6 +493,32 @@
       "media_id": "18421891753152187",
       "permalink": "https://www.instagram.com/reel/DfDNZLhArSY/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "b09ab1be0aed1c77a315b964",
+      "source": "White font/Video-24570.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-24570_quote.mp4",
+      "quote": "We mistake consistency for care, letting routine replace genuine attention. When habits die, the love we thought we had fades.\u00a0:)",
+      "short_caption": "Love Needs Honesty \ud83e\ude9e",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#Overthinking",
+        "#RelationshipQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Love Needs Honesty \ud83e\ude9e\n\n#HardTruths #RelationshipTruths #RealTalk #Overthinking #RelationshipQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_b09ab1be0aed1c77a315b964",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "d952f4b7c8da78ef99f6c7f559736e12",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793274007/glimpse-of-thoughts/reels/astra_b09ab1be0aed1c77a315b964.mp4",
+      "container_id": "17903176446671515",
+      "media_id": "17890115325477686",
+      "permalink": "https://www.instagram.com/reel/DfE6-YhDK9n/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
