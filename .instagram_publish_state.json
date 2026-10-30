@@ -571,6 +571,32 @@
       "media_id": "18142545529610492",
       "permalink": "https://www.instagram.com/reel/DfFybrjAuQg/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "efa942459aac38cc3331a0dd",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "My worth isn\u2019t measured by the applause I chase, but by the quiet moments I grant myself.\u00a0>>",
+      "short_caption": "No More Shrinking \ud83d\udda4",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "No More Shrinking \ud83d\udda4\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #RelatableReels #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_efa942459aac38cc3331a0dd",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "cff56c669f3d45338067a628c886776c",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793359852/glimpse-of-thoughts/reels/astra_efa942459aac38cc3331a0dd.mp4",
+      "container_id": "17903370288671515",
+      "media_id": "17915566950532973",
+      "permalink": "https://www.instagram.com/reel/DfHetWeAekQ/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
