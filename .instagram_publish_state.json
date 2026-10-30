@@ -597,6 +597,32 @@
       "media_id": "17915566950532973",
       "permalink": "https://www.instagram.com/reel/DfHetWeAekQ/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "cbef9e6709c357dbf35d44b6",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "I walk through a party, hearing laughter but feeling like a silent echo inside\u00a0>>",
+      "short_caption": "Alone Together \ud83c\udf19",
+      "hashtags": [
+        "#LonelyThoughts",
+        "#FeelingAlone",
+        "#InnerThoughts",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Alone Together \ud83c\udf19\n\n#LonelyThoughts #FeelingAlone #InnerThoughts #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_cbef9e6709c357dbf35d44b6",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "429c7a5edb5d456f53b53e2dae22d5e5",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793376581/glimpse-of-thoughts/reels/astra_cbef9e6709c357dbf35d44b6.mp4",
+      "container_id": "17903412438671515",
+      "media_id": "18082519583349444",
+      "permalink": "https://www.instagram.com/reel/DfH-nczFJP0/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
