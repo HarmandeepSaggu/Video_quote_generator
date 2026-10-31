@@ -649,6 +649,32 @@
       "media_id": "18229642396334756",
       "permalink": "https://www.instagram.com/reel/DfIVxUgD6XL/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "ace7a693c360a830263ccd5c",
+      "source": "White font/Video-24570.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-24570_quote.mp4",
+      "quote": "The friendship faded like dusk, and I walked away with lighter steps, no regrets\u00a0:)",
+      "short_caption": "Peace After Goodbye \ud83d\udd4a\ufe0f",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Peace After Goodbye \ud83d\udd4a\ufe0f\n\n#LettingGo #HealingJourney #MovingOn #RelatableReels #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_ace7a693c360a830263ccd5c",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "bf0b62bebc263046e138bcebf0f28204",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793444557/glimpse-of-thoughts/reels/astra_ace7a693c360a830263ccd5c.mp4",
+      "container_id": "17903557929671515",
+      "media_id": "18117981509009730",
+      "permalink": "https://www.instagram.com/reel/DfKARULkiBw/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
