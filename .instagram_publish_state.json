@@ -727,6 +727,32 @@
       "media_id": "18335422141263887",
       "permalink": "https://www.instagram.com/reel/DfK0pZbgod9/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "9ff07100b8c98e8cdc0196db",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "After the last goodbye, I folded the silence into a quiet smile and walked forward.\u00a0>>",
+      "short_caption": "Release The Weight \ud83c\udf42",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#LateNightThoughts",
+        "#HeartbreakHealing",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Release The Weight \ud83c\udf42\n\n#LettingGo #HealingJourney #MovingOn #LateNightThoughts #HeartbreakHealing #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_9ff07100b8c98e8cdc0196db",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "1a83dbeb2f12ce4c66db53cf3e96d324",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793534283/glimpse-of-thoughts/reels/astra_9ff07100b8c98e8cdc0196db.mp4",
+      "container_id": "17903820702671515",
+      "media_id": "18120392764957962",
+      "permalink": "https://www.instagram.com/reel/DfMraVqiupk/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
