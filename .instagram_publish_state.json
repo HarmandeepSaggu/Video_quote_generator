@@ -779,6 +779,32 @@
       "media_id": "18001443510002598",
       "permalink": "https://www.instagram.com/reel/DfNIzLbHaNT/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "3feec142076b37e0d5d066d7",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "I sit in a crowded room, yet my thoughts echo alone, unheard. A quiet ache settles where conversation should have reached me.\u00a0\u2014",
+      "short_caption": "Crowded But Lonely \ud83e\udee5",
+      "hashtags": [
+        "#LonelyThoughts",
+        "#FeelingAlone",
+        "#InnerThoughts",
+        "#UnspokenFeelings",
+        "#RelationshipQuotes",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Crowded But Lonely \ud83e\udee5\n\n#LonelyThoughts #FeelingAlone #InnerThoughts #UnspokenFeelings #RelationshipQuotes #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_3feec142076b37e0d5d066d7",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "48a362c5e4319c1fe9fa7e9350ac9c78",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793559632/glimpse-of-thoughts/reels/astra_3feec142076b37e0d5d066d7.mp4",
+      "container_id": "17903882046671515",
+      "media_id": "18029045753697255",
+      "permalink": "https://www.instagram.com/reel/DfNbyThky35/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
