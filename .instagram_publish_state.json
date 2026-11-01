@@ -753,6 +753,32 @@
       "media_id": "18120392764957962",
       "permalink": "https://www.instagram.com/reel/DfMraVqiupk/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "25aa89e51a20e0cd80c16d2a",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "We mistake proximity for intimacy, assuming anyone who stays will understand. Distance often teaches the lessons proximity hides.\u00a0>>",
+      "short_caption": "Truth Hits Different \ud83d\udda4",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#UnspokenFeelings",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Truth Hits Different \ud83d\udda4\n\n#HardTruths #RelationshipTruths #RealTalk #UnspokenFeelings #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_25aa89e51a20e0cd80c16d2a",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "a28bc98037fdb10d206bddfdf969582d",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793549692/glimpse-of-thoughts/reels/astra_25aa89e51a20e0cd80c16d2a.mp4",
+      "container_id": "17903860977671515",
+      "media_id": "18001443510002598",
+      "permalink": "https://www.instagram.com/reel/DfNIzLbHaNT/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
