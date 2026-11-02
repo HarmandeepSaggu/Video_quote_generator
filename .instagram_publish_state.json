@@ -831,6 +831,32 @@
       "media_id": "17919392100459828",
       "permalink": "https://www.instagram.com/reel/DfPcZNcgros/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "edd233dfd4ae5e88848d8a6d",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "I lie awake, each thought a spiral, turning a simple \u2018okay\u2019 into a mountain of meaning I can\u2019t climb down.\u00a0\u2014",
+      "short_caption": "Quiet Mind Please \ud83e\udee7",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Quiet Mind Please \ud83e\udee7\n\n#Overthinking #LateNightThoughts #MindSpiral #RelatableReels #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_edd233dfd4ae5e88848d8a6d",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "044bd285274ab2b0dbcf644d9560c2d5",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793648466/glimpse-of-thoughts/reels/astra_edd233dfd4ae5e88848d8a6d.mp4",
+      "container_id": "17904065988671515",
+      "media_id": "18101646752420880",
+      "permalink": "https://www.instagram.com/reel/DfQFNasDhLG/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
