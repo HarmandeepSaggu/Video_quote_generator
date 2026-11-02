@@ -857,6 +857,32 @@
       "media_id": "18101646752420880",
       "permalink": "https://www.instagram.com/reel/DfQFNasDhLG/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "e9b7fbe25cf79e87654bf84c",
+      "source": "White font/Video-42281.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-42281_quote.mp4",
+      "quote": "I stopped holding the empty chair, letting its weight dissolve into the sunrise. The room feels larger now.\u00a0:)",
+      "short_caption": "Release The Weight \ud83c\udf42",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Release The Weight \ud83c\udf42\n\n#LettingGo #HealingJourney #MovingOn #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_e9b7fbe25cf79e87654bf84c",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "aa0381619794adee4fbbc044c77f4902",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793659844/glimpse-of-thoughts/reels/astra_e9b7fbe25cf79e87654bf84c.mp4",
+      "container_id": "17904088983671515",
+      "media_id": "17921051748462021",
+      "permalink": "https://www.instagram.com/reel/DfQa6rxDxlB/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
