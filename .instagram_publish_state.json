@@ -883,6 +883,32 @@
       "media_id": "17921051748462021",
       "permalink": "https://www.instagram.com/reel/DfQa6rxDxlB/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "b9a9c76c06af5a9d5d7349b7",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "I stopped saying yes when my answer was no, and the silence felt like home\u00a0>>",
+      "short_caption": "No More Shrinking \ud83d\udda4",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#LateNightThoughts",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "No More Shrinking \ud83d\udda4\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #LateNightThoughts #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_b9a9c76c06af5a9d5d7349b7",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "5d8d4b205da884b0bc7e70c9f0996571",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793710611/glimpse-of-thoughts/reels/astra_b9a9c76c06af5a9d5d7349b7.mp4",
+      "container_id": "17904213459671515",
+      "media_id": "18133421431690364",
+      "permalink": "https://www.instagram.com/reel/DfR7usHislz/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
