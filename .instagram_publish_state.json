@@ -909,6 +909,32 @@
       "media_id": "18133421431690364",
       "permalink": "https://www.instagram.com/reel/DfR7usHislz/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "5fbbf0e2fe471fd0421d9729",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "We call it loyalty, but often it\u2019s fear of facing an empty space\u00a0>>",
+      "short_caption": "Love Needs Honesty \ud83e\ude9e",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Love Needs Honesty \ud83e\ude9e\n\n#HardTruths #RelationshipTruths #RealTalk #RelatableReels #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_5fbbf0e2fe471fd0421d9729",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "0fc1fed1359dd4cd6f518b5011afbc05",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793726074/glimpse-of-thoughts/reels/astra_5fbbf0e2fe471fd0421d9729.mp4",
+      "container_id": "17904254283671515",
+      "media_id": "17955935586284776",
+      "permalink": "https://www.instagram.com/reel/DfSZOgJiI6M/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
