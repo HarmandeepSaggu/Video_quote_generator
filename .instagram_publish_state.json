@@ -935,6 +935,32 @@
       "media_id": "17955935586284776",
       "permalink": "https://www.instagram.com/reel/DfSZOgJiI6M/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "132e17bda4110223eb9109d6",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "I replay simple conversations until they sound like proof that I mattered less.\u00a0\u2014",
+      "short_caption": "Mind Won't Rest \ud83c\udf00",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Mind Won't Rest \ud83c\udf00\n\n#Overthinking #LateNightThoughts #MindSpiral #DeepQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_132e17bda4110223eb9109d6",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "3de5eda6a70d017d0e683756c384478c",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793738041/glimpse-of-thoughts/reels/astra_132e17bda4110223eb9109d6.mp4",
+      "container_id": "17904281811671515",
+      "media_id": "17903763591373727",
+      "permalink": "https://www.instagram.com/reel/DfSwDC2meAB/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
