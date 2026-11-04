@@ -987,6 +987,32 @@
       "media_id": "17957377341290356",
       "permalink": "https://www.instagram.com/reel/DfUiH9oAWTH/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "61291b574214c6e5dc726016",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "Affection often masquerades as ownership; love fades when you stop needing to possess\u00a0\u2014",
+      "short_caption": "Truth Hits Different \ud83d\udda4",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#RelationshipQuotes",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Truth Hits Different \ud83d\udda4\n\n#HardTruths #RelationshipTruths #RealTalk #RelationshipQuotes #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_61291b574214c6e5dc726016",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "edada956b775230ed76ad4e729253b92",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793813116/glimpse-of-thoughts/reels/astra_61291b574214c6e5dc726016.mp4",
+      "container_id": "17904428370671515",
+      "media_id": "18140180395726223",
+      "permalink": "https://www.instagram.com/reel/DfU_PX_Dsc8/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
