@@ -1039,6 +1039,32 @@
       "media_id": "18115001522122868",
       "permalink": "https://www.instagram.com/reel/DfVXmJQlfL_/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "4adda479cb5c8103c4ca19ef",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "I draw the line where my peace ends and their demands begin, then I walk away\u00a0>>",
+      "short_caption": "Choose Your Peace \ud83d\udd4a\ufe0f",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Choose Your Peace \ud83d\udd4a\ufe0f\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_4adda479cb5c8103c4ca19ef",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "51a7484e12b8678a40393bf6625f0206",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793885136/glimpse-of-thoughts/reels/astra_4adda479cb5c8103c4ca19ef.mp4",
+      "container_id": "17904564075671515",
+      "media_id": "18147622996588301",
+      "permalink": "https://www.instagram.com/reel/DfXInDyjZHU/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
