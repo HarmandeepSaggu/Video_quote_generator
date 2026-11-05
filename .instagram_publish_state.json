@@ -1065,6 +1065,32 @@
       "media_id": "18147622996588301",
       "permalink": "https://www.instagram.com/reel/DfXInDyjZHU/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "436c5c5fa47e1c5414ff358e",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "I write my feelings on paper, fold them, and leave them where nobody looks\u00a0>>",
+      "short_caption": "Unheard Again \ud83e\udee5",
+      "hashtags": [
+        "#FeelingUnseen",
+        "#DeepFeelings",
+        "#SilentStruggles",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Unheard Again \ud83e\udee5\n\n#FeelingUnseen #DeepFeelings #SilentStruggles #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_436c5c5fa47e1c5414ff358e",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "37e18fccd59eb777b4af162bc3ff5d92",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793899996/glimpse-of-thoughts/reels/astra_436c5c5fa47e1c5414ff358e.mp4",
+      "container_id": "17904600288671515",
+      "media_id": "17865674043695185",
+      "permalink": "https://www.instagram.com/reel/DfXk883gDtN/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
