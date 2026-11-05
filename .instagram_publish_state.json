@@ -1091,6 +1091,32 @@
       "media_id": "17865674043695185",
       "permalink": "https://www.instagram.com/reel/DfXk883gDtN/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "b88761fb609aae1b8406f6de",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "The silence after a message sits heavy; I replay it, adding reasons I never said.\u00a0\u2014",
+      "short_caption": "Quiet Mind Please \ud83e\udee7",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Quiet Mind Please \ud83e\udee7\n\n#Overthinking #LateNightThoughts #MindSpiral #DeepQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_b88761fb609aae1b8406f6de",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "75e6dacbe783141ade06a58b4dbb6477",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793912930/glimpse-of-thoughts/reels/astra_b88761fb609aae1b8406f6de.mp4",
+      "container_id": "17904626253671515",
+      "media_id": "18112060103264635",
+      "permalink": "https://www.instagram.com/reel/DfX9tysHKJM/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
