@@ -1169,6 +1169,32 @@
       "media_id": "18643470820047712",
       "permalink": "https://www.instagram.com/reel/DfaFJztj-zX/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "25c2c069d1108d26d6e4635c",
+      "source": "White font/Video-42281.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-42281_quote.mp4",
+      "quote": "I stopped apologizing for needing silence my own voice became the only permission I required\u00a0:)",
+      "short_caption": "Choose Your Peace \ud83d\udd4a\ufe0f",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#LateNightThoughts",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Choose Your Peace \ud83d\udd4a\ufe0f\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #LateNightThoughts #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_25c2c069d1108d26d6e4635c",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "8342d70b694361c7eb69ea43cf5ac3ca",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793996961/glimpse-of-thoughts/reels/astra_25c2c069d1108d26d6e4635c.mp4",
+      "container_id": "17904797376671515",
+      "media_id": "18154282813549692",
+      "permalink": "https://www.instagram.com/reel/Dfad5k-gQ-v/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
