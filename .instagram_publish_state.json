@@ -1117,6 +1117,32 @@
       "media_id": "18112060103264635",
       "permalink": "https://www.instagram.com/reel/DfX9tysHKJM/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "8aaa9a498c81e7eeeb566b6e",
+      "source": "White font/Video-24570.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-24570_quote.mp4",
+      "quote": "The mirror shows a stranger I once feared. Now I smile, because I\u2019m finally willing to trust the eyes looking back.\u00a0:)",
+      "short_caption": "Healing Quietly \ud83c\udf31",
+      "hashtags": [
+        "#HealingJourney",
+        "#InnerHealing",
+        "#ChoosePeace",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Healing Quietly \ud83c\udf31\n\n#HealingJourney #InnerHealing #ChoosePeace #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_8aaa9a498c81e7eeeb566b6e",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "fae96c8398354e8f340d4de16eae4a5d",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1793970468/glimpse-of-thoughts/reels/astra_8aaa9a498c81e7eeeb566b6e.mp4",
+      "container_id": "17904730311671515",
+      "media_id": "18042900647639696",
+      "permalink": "https://www.instagram.com/reel/DfZrXebmGyb/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
