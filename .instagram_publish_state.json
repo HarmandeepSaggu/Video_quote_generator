@@ -1221,6 +1221,32 @@
       "media_id": "17974836354167476",
       "permalink": "https://www.instagram.com/reel/DfcHdkPiENv/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "41b48947ede7712d8e9ecce2",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "I learned to hold my own hand in the dark, feeling steadier with each squeeze\u00a0>>",
+      "short_caption": "Becoming Whole Again \ud83c\udf24\ufe0f",
+      "hashtags": [
+        "#HealingJourney",
+        "#InnerHealing",
+        "#ChoosePeace",
+        "#QuietGrowth",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Becoming Whole Again \ud83c\udf24\ufe0f\n\n#HealingJourney #InnerHealing #ChoosePeace #QuietGrowth #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_41b48947ede7712d8e9ecce2",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "7e8ed8015e1ca42ff7591af03573cace",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794066618/glimpse-of-thoughts/reels/astra_41b48947ede7712d8e9ecce2.mp4",
+      "container_id": "17904929268671515",
+      "media_id": "18134877502690535",
+      "permalink": "https://www.instagram.com/reel/DfciwcdjJBv/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
