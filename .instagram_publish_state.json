@@ -1195,6 +1195,32 @@
       "media_id": "18154282813549692",
       "permalink": "https://www.instagram.com/reel/Dfad5k-gQ-v/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "c1208afd9a144df978e3523e",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "The chatter swirls, but my thoughts stay quiet, waiting for one glance that sees me\u00a0>>",
+      "short_caption": "Quietly Missing You \ud83d\udd6f\ufe0f",
+      "hashtags": [
+        "#LonelyThoughts",
+        "#FeelingAlone",
+        "#InnerThoughts",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Quietly Missing You \ud83d\udd6f\ufe0f\n\n#LonelyThoughts #FeelingAlone #InnerThoughts #DeepQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_c1208afd9a144df978e3523e",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "85769b0c0f39d083395f01520b750f78",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794052305/glimpse-of-thoughts/reels/astra_c1208afd9a144df978e3523e.mp4",
+      "container_id": "17904892227671515",
+      "media_id": "17974836354167476",
+      "permalink": "https://www.instagram.com/reel/DfcHdkPiENv/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
