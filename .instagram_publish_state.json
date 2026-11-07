@@ -1247,6 +1247,32 @@
       "media_id": "18134877502690535",
       "permalink": "https://www.instagram.com/reel/DfciwcdjJBv/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "d555fc81acfd0d40914a19ec",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "We trade promises for comfort, then blame the silence when expectations crumble.\u00a0\u2014",
+      "short_caption": "Some Truths Hurt \ud83e\udd40",
+      "hashtags": [
+        "#HardTruths",
+        "#RelationshipTruths",
+        "#RealTalk",
+        "#LateNightThoughts",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Some Truths Hurt \ud83e\udd40\n\n#HardTruths #RelationshipTruths #RealTalk #LateNightThoughts #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_d555fc81acfd0d40914a19ec",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "cbf48bbd01d5031e50cbcb43f722b758",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794077709/glimpse-of-thoughts/reels/astra_d555fc81acfd0d40914a19ec.mp4",
+      "container_id": "17904956724671515",
+      "media_id": "18121620011050591",
+      "permalink": "https://www.instagram.com/reel/Dfc36bWE2nG/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
