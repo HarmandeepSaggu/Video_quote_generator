@@ -1325,6 +1325,32 @@
       "media_id": "17999430297048162",
       "permalink": "https://www.instagram.com/reel/DffJ7Itj-Ng/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "2f235a1712b37a1b6c4320da",
+      "source": "White font/Video-42281.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-42281_quote.mp4",
+      "quote": "I keep my peace like a fragile glass, refusing to let anyone shatter it\u00a0:)",
+      "short_caption": "Choose Your Peace \ud83d\udd4a\ufe0f",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Choose Your Peace \ud83d\udd4a\ufe0f\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #DeepQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_2f235a1712b37a1b6c4320da",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "79666efd08f73b99503e15d43593e2e7",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794164104/glimpse-of-thoughts/reels/astra_2f235a1712b37a1b6c4320da.mp4",
+      "container_id": "17905141884671515",
+      "media_id": "18112305983611647",
+      "permalink": "https://www.instagram.com/reel/DffczX1k3C1/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
