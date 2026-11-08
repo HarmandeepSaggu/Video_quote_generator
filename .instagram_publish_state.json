@@ -1299,6 +1299,32 @@
       "media_id": "18131056237886077",
       "permalink": "https://www.instagram.com/reel/Dfetv_smJ--/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "f5e81ad26ce523bab72ca144",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "When the jokes stopped landing, I stopped forcing laughter. The quiet became a place where I could finally hear my own pulse.\u00a0\u2014",
+      "short_caption": "Peace After Goodbye \ud83d\udd4a\ufe0f",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Peace After Goodbye \ud83d\udd4a\ufe0f\n\n#LettingGo #HealingJourney #MovingOn #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_f5e81ad26ce523bab72ca144",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "4ec96237241ab0e2d5008210a4cc92aa",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794154261/glimpse-of-thoughts/reels/astra_f5e81ad26ce523bab72ca144.mp4",
+      "container_id": "17905114995671515",
+      "media_id": "17999430297048162",
+      "permalink": "https://www.instagram.com/reel/DffJ7Itj-Ng/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
