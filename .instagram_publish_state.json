@@ -1377,6 +1377,32 @@
       "media_id": "18118701944044113",
       "permalink": "https://www.instagram.com/reel/DfhhBQ1FSM9/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "2ee8ab2e6f8624d1926fa0f8",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "Even in a room full of voices, the quiet part of me still waits for a true listener\u00a0>>",
+      "short_caption": "Alone Together \ud83c\udf19",
+      "hashtags": [
+        "#LonelyThoughts",
+        "#FeelingAlone",
+        "#InnerThoughts",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Alone Together \ud83c\udf19\n\n#LonelyThoughts #FeelingAlone #InnerThoughts #DeepQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_2ee8ab2e6f8624d1926fa0f8",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "5dbe3def27a2219b09b53be646208e0f",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794254262/glimpse-of-thoughts/reels/astra_2ee8ab2e6f8624d1926fa0f8.mp4",
+      "container_id": "17905320726671515",
+      "media_id": "18117905870008308",
+      "permalink": "https://www.instagram.com/reel/DfiIwwLATx0/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
