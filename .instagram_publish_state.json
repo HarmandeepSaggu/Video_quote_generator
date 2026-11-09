@@ -1403,6 +1403,32 @@
       "media_id": "18117905870008308",
       "permalink": "https://www.instagram.com/reel/DfiIwwLATx0/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "c0346b060c12ac8fca151624",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "I keep preparing for endings that nobody said were coming.\u00a0\u2014",
+      "short_caption": "Lost In Thought \ud83c\udf19",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Lost In Thought \ud83c\udf19\n\n#Overthinking #LateNightThoughts #MindSpiral #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_c0346b060c12ac8fca151624",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "7bbf6da6637009bf13d6be94ac8dcd5b",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794266964/glimpse-of-thoughts/reels/astra_c0346b060c12ac8fca151624.mp4",
+      "container_id": "17905347219671515",
+      "media_id": "17975892045176025",
+      "permalink": "https://www.instagram.com/reel/Dfig5Z1DH8q/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
