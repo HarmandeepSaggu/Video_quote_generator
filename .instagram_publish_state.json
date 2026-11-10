@@ -1481,6 +1481,32 @@
       "media_id": "17945560335092387",
       "permalink": "https://www.instagram.com/reel/DfkarasjPvF/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "e69cb8365fe20910689595fb",
+      "source": "White font/Video-42281.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-42281_quote.mp4",
+      "quote": "Each imagined meaning spirals, pulling me deeper, until I realize the only answer is the quiet I\u2019m avoiding.\u00a0:)",
+      "short_caption": "Lost In Thought \ud83c\udf19",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Lost In Thought \ud83c\udf19\n\n#Overthinking #LateNightThoughts #MindSpiral #WordsThatHeal #TheSilentJournal #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_e69cb8365fe20910689595fb",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "1a98a4d4e93f41f121be13c0851d0572",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794344166/glimpse-of-thoughts/reels/astra_e69cb8365fe20910689595fb.mp4",
+      "container_id": "17905531146671515",
+      "media_id": "18139197328656790",
+      "permalink": "https://www.instagram.com/reel/Dfk0JExiq_M/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
