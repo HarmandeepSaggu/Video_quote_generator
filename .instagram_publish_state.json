@@ -1559,6 +1559,32 @@
       "media_id": "18102918476375566",
       "permalink": "https://www.instagram.com/reel/DfnAbkjidqi/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "446c952c5cc41adafc493cea",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "Sometimes I miss being understood more than I miss the person.\u00a0\u2014",
+      "short_caption": "Quietly Missing You \ud83d\udd6f\ufe0f",
+      "hashtags": [
+        "#LonelyThoughts",
+        "#FeelingAlone",
+        "#InnerThoughts",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Quietly Missing You \ud83d\udd6f\ufe0f\n\n#LonelyThoughts #FeelingAlone #InnerThoughts #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_446c952c5cc41adafc493cea",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "b926a829c150e821268c207bde694721",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794432517/glimpse-of-thoughts/reels/astra_446c952c5cc41adafc493cea.mp4",
+      "container_id": "17905742577671515",
+      "media_id": "18130150132890668",
+      "permalink": "https://www.instagram.com/reel/DfncsbgnZiM/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
