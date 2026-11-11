@@ -1533,6 +1533,32 @@
       "media_id": "18036295274675401",
       "permalink": "https://www.instagram.com/reel/DfmhnRkiYUN/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "860b2bce46215e36d9783c75",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "I folded the old promise into a paper boat and set it downstream, watching it drift away.\u00a0>>",
+      "short_caption": "Release The Weight \ud83c\udf42",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Release The Weight \ud83c\udf42\n\n#LettingGo #HealingJourney #MovingOn #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_860b2bce46215e36d9783c75",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "e5eba34a921f9436f851457a2358bd32",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794417719/glimpse-of-thoughts/reels/astra_860b2bce46215e36d9783c75.mp4",
+      "container_id": "17905707531671515",
+      "media_id": "18102918476375566",
+      "permalink": "https://www.instagram.com/reel/DfnAbkjidqi/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
