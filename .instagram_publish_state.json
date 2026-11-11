@@ -1507,6 +1507,32 @@
       "media_id": "18139197328656790",
       "permalink": "https://www.instagram.com/reel/Dfk0JExiq_M/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "18cfbe0084e9e044b5c9420c",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "I speak in soft tones, hoping they'll notice the storm I keep inside\u00a0>>",
+      "short_caption": "Unheard Again \ud83e\udee5",
+      "hashtags": [
+        "#FeelingUnseen",
+        "#DeepFeelings",
+        "#SilentStruggles",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal",
+        "#RelatableReels"
+      ],
+      "caption": "Unheard Again \ud83e\udee5\n\n#FeelingUnseen #DeepFeelings #SilentStruggles #DeepQuotes #WordsThatHeal #TheSilentJournal #RelatableReels",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_18cfbe0084e9e044b5c9420c",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "5605c0a4b1dc354d164427d78f33b796",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794401562/glimpse-of-thoughts/reels/astra_18cfbe0084e9e044b5c9420c.mp4",
+      "container_id": "17905656108671515",
+      "media_id": "18036295274675401",
+      "permalink": "https://www.instagram.com/reel/DfmhnRkiYUN/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
