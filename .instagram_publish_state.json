@@ -1585,6 +1585,32 @@
       "media_id": "18130150132890668",
       "permalink": "https://www.instagram.com/reel/DfncsbgnZiM/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "07521cd2a6dc3dca5837c1b1",
+      "source": "White font/Video-24570.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-24570_quote.mp4",
+      "quote": "My heart learned to trust the echo of its own pulse, not the promises whispered by empty rooms.\u00a0:)",
+      "short_caption": "Softly Finding Peace \ud83c\udf3f",
+      "hashtags": [
+        "#HealingJourney",
+        "#InnerHealing",
+        "#ChoosePeace",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Softly Finding Peace \ud83c\udf3f\n\n#HealingJourney #InnerHealing #ChoosePeace #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_07521cd2a6dc3dca5837c1b1",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "c24c4d96a2fcd11b0dbee7a957825548",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794491738/glimpse-of-thoughts/reels/astra_07521cd2a6dc3dca5837c1b1.mp4",
+      "container_id": "17905874802671515",
+      "media_id": "18654119950028891",
+      "permalink": "https://www.instagram.com/reel/DfpNm_dj_Tv/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
