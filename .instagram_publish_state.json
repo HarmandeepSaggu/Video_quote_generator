@@ -1611,6 +1611,32 @@
       "media_id": "18654119950028891",
       "permalink": "https://www.instagram.com/reel/DfpNm_dj_Tv/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "85327d926ad655bc603c13c9",
+      "source": "White font/Video-36809.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-36809_quote.mp4",
+      "quote": "I still care, but I no longer need the past to return what it took.\u00a0\u2014",
+      "short_caption": "Release The Weight \ud83c\udf42",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Release The Weight \ud83c\udf42\n\n#LettingGo #HealingJourney #MovingOn #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_85327d926ad655bc603c13c9",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "b755d1358ac1e0e0db041b431c75d0f0",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794505321/glimpse-of-thoughts/reels/astra_85327d926ad655bc603c13c9.mp4",
+      "container_id": "17905911726671515",
+      "media_id": "18376032547300479",
+      "permalink": "https://www.instagram.com/reel/Dfpnk90nItA/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
