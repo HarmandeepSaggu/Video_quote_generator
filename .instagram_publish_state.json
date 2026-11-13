@@ -1663,6 +1663,32 @@
       "media_id": "17866510659693313",
       "permalink": "https://www.instagram.com/reel/DfqBsbKkrlO/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "d2c8c715bd9ec1b46f3e6071",
+      "source": "White font/Video-54153.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-54153_quote.mp4",
+      "quote": "Late night, my phone stays dark while I replay every word I didn\u2019t send. The silence feels louder than any reply.\u00a0>>",
+      "short_caption": "Quiet Mind Please \ud83e\udee7",
+      "hashtags": [
+        "#Overthinking",
+        "#LateNightThoughts",
+        "#MindSpiral",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Quiet Mind Please \ud83e\udee7\n\n#Overthinking #LateNightThoughts #MindSpiral #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_d2c8c715bd9ec1b46f3e6071",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "ac183d34221af515665f951c66e582d3",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794575994/glimpse-of-thoughts/reels/astra_d2c8c715bd9ec1b46f3e6071.mp4",
+      "container_id": "17906061489671515",
+      "media_id": "18154132912474214",
+      "permalink": "https://www.instagram.com/reel/DfruUMAFVJn/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
