@@ -1715,6 +1715,32 @@
       "media_id": "17919894303263633",
       "permalink": "https://www.instagram.com/reel/DfsJun5gBud/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "e0ad6c00ad7a3e751c2d341c",
+      "source": "White font/Video-12705.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-12705_quote.mp4",
+      "quote": "I stopped polishing his memory, letting the cracks show and the light finally seeped in\u00a0\u2014",
+      "short_caption": "Release The Weight \ud83c\udf42",
+      "hashtags": [
+        "#LettingGo",
+        "#HealingJourney",
+        "#MovingOn",
+        "#TheSilentJournal",
+        "#RelatableReels",
+        "#DeepQuotes",
+        "#WordsThatHeal"
+      ],
+      "caption": "Release The Weight \ud83c\udf42\n\n#LettingGo #HealingJourney #MovingOn #TheSilentJournal #RelatableReels #DeepQuotes #WordsThatHeal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_e0ad6c00ad7a3e751c2d341c",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "a2686ca70d9a7ea405ca030db4a5e183",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794603387/glimpse-of-thoughts/reels/astra_e0ad6c00ad7a3e751c2d341c.mp4",
+      "container_id": "17906133285671515",
+      "media_id": "17921287845529022",
+      "permalink": "https://www.instagram.com/reel/Dfsil0aihen/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
