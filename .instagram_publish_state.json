@@ -1689,6 +1689,32 @@
       "media_id": "18154132912474214",
       "permalink": "https://www.instagram.com/reel/DfruUMAFVJn/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "083bc3b5e1fc2fc900f5566d",
+      "source": "Yellow Font/Video-80265.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-80265_quote.mp4",
+      "quote": "I stitch together the broken parts with patience, not perfection. Learning to trust means believing the stitches will hold.\u00a0>>",
+      "short_caption": "Healing Quietly \ud83c\udf31",
+      "hashtags": [
+        "#HealingJourney",
+        "#InnerHealing",
+        "#ChoosePeace",
+        "#HeartbreakHealing",
+        "#DeepQuotes",
+        "#WordsThatHeal",
+        "#TheSilentJournal"
+      ],
+      "caption": "Healing Quietly \ud83c\udf31\n\n#HealingJourney #InnerHealing #ChoosePeace #HeartbreakHealing #DeepQuotes #WordsThatHeal #TheSilentJournal",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_083bc3b5e1fc2fc900f5566d",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "ff77eb2be8796b518e6a75a2916afec5",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794590366/glimpse-of-thoughts/reels/astra_083bc3b5e1fc2fc900f5566d.mp4",
+      "container_id": "17906102742671515",
+      "media_id": "17919894303263633",
+      "permalink": "https://www.instagram.com/reel/DfsJun5gBud/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
