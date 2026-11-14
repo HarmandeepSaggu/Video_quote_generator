@@ -1741,6 +1741,32 @@
       "media_id": "17921287845529022",
       "permalink": "https://www.instagram.com/reel/Dfsil0aihen/",
       "cloudinary_deletion": "ok"
+    },
+    {
+      "job_id": "375ae52333dec526c6cbc0f2",
+      "source": "White font/Video-24570.mp4",
+      "output": "/home/runner/work/Video_quote_generator/Video_quote_generator/output/Video-24570_quote.mp4",
+      "quote": "I stopped chasing clarity from people who benefited from keeping me confused.\u00a0:)",
+      "short_caption": "Choose Your Peace \ud83d\udd4a\ufe0f",
+      "hashtags": [
+        "#SelfRespect",
+        "#ProtectYourPeace",
+        "#KnowYourWorth",
+        "#EmotionalBoundaries",
+        "#RelationshipQuotes",
+        "#RelatableReels",
+        "#DeepQuotes"
+      ],
+      "caption": "Choose Your Peace \ud83d\udd4a\ufe0f\n\n#SelfRespect #ProtectYourPeace #KnowYourWorth #EmotionalBoundaries #RelationshipQuotes #RelatableReels #DeepQuotes",
+      "cloudinary_public_id": "glimpse-of-thoughts/reels/astra_375ae52333dec526c6cbc0f2",
+      "status": "complete",
+      "last_error": "",
+      "cloudinary_asset_id": "0d25539ef60487f698ea9e2440f2ebfb",
+      "cloudinary_url": "https://res.cloudinary.com/dvkkrtbg8/video/upload/v1794659048/glimpse-of-thoughts/reels/astra_375ae52333dec526c6cbc0f2.mp4",
+      "container_id": "17906260263671515",
+      "media_id": "18185106205428309",
+      "permalink": "https://www.instagram.com/reel/DfuMujGDYPC/",
+      "cloudinary_deletion": "ok"
     }
   ]
 }
